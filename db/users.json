@@ -1,1 +1,30 @@
-{}
+{
+  "Emtenan": {
+    "username": "Emtenan",
+    "password": "Emtenan2008",
+    "student_type": "علمي",
+    "telegram_user_id": "1652091109",
+    "telegram_username": null,
+    "telegram_first_name": "Emtenan",
+    "profile_photo_url": null,
+    "session_id": "81390aeb-c861-491d-90cf-9efec9ea5354",
+    "created_at": "2026-05-10T22:13:43.046897",
+    "verified": true,
+    "last_login": "2026-05-10T22:13:47.027819",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 33
+  }
+}
